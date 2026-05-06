@@ -3,8 +3,9 @@
 ## Требования
 - Docker
 
-## Сборка образа
+## Проверка
 ```bash
+## Сборка образа
 docker build -t username-webapp:latest .
 
 ## Запуск контейнера
